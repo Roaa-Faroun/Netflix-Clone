@@ -10,3 +10,12 @@ The admin can add or remove shows/movies.
 React JS was used to create this project. All the componants are functional componants. 
 useContext was used to manage state globally.
 
+
+#### Login Info
+* User: 
+email: user1@vsn.com
+password: 123456
+
+* Admin
+email: admin@vsn.com
+password: 123456
